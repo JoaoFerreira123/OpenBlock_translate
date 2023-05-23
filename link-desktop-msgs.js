@@ -18,6 +18,24 @@ module.exports = {
     "index.messageBox.upgrading": "Upgrading",
     "index.messageBox.upgradingTip": "The upgrade is in progress, please do not close me, the program will automatically restart after the upgrade is completed."
   },
+  "pt-br":{
+    "index.menu.checkUpdate": "Verificar atualização",
+    "index.menu.checkingUpdate": "Verificando atualizações...",
+    "index.menu.exit": "Sair",
+    "index.menu.installDiver": "Instalar driver",
+    "index.menu.learCacheAndRestart": "Limpar cache e reiniciar",
+    "index.menu.setLanguage": "Definir idioma",
+    "index.messageBox.alreadyLatest": "Já está atualizado",
+    "index.messageBox.alreadyLatestTips": "A fonte externa já está atualizada.",
+    "index.messageBox.covering": "Substituindo",
+    "index.messageBox.downloading": "Baixando",
+    "index.messageBox.newExternalResource": "Nova versão de recurso externo detectada",
+    "index.messageBox.operationFailed": "Operação falhou",
+    "index.messageBox.upgradeAndRestart": "Atualizar e reiniciar",
+    "index.messageBox.upgradeLater": "Atualizar depois",
+    "index.messageBox.upgrading": "Atualizando",
+    "index.messageBox.upgradingTip": "A atualização está em andamento. Por favor, não me feche. O programa será reiniciado automaticamente após a conclusão da atualização."
+  },
   "zh-cn": {
     "index.menu.checkUpdate": "检查更新",
     "index.menu.checkingUpdate": "正在检查更新...",
